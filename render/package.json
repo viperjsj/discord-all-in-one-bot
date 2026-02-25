@@ -1,0 +1,7 @@
+{
+  "name": "card-render",
+  "version": "1.0.0",
+  "dependencies": {
+    "canvas": "^3.0.0-rc2"
+  }
+}
