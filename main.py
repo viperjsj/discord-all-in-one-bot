@@ -32,6 +32,7 @@ async def load_extensions():
         "cogs.level_commands",
         "cogs.giveaways",
         "cogs.cs2_patches",
+        "cogs.raid",
     ]
     for extension in extensions:
         try:
