@@ -1,5 +1,5 @@
 # --- BOT TOKEN ---
-TOKEN = 'MTU1NDg5MzIxODkxNzc3NzUwOQ.GQQxBC._GjGjNkTN9wxwbMHFH5f9bj4QUQzd9aEJEldSE'
+TOKEN = 'token'
 
 # --- SERVER & CHANNELS ---
 GUILD_ID = 0                  # Your Discord server ID
